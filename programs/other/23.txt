@@ -1,0 +1,6 @@
+x = 10
+y = input()
+if y == 20 then
+     x = input()
+end
+assert x == 10

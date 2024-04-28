@@ -1,0 +1,27 @@
+10.txt: Assert can be false
+11.txt: Assert is true
+12.txt: Assert is true
+13.txt: Cant multiply variable by variable
+14.txt: Assert can be false
+15.txt: Assert can be false
+16.txt: Assert can be false
+17.txt: Assert is true
+18.txt: Assert can be false
+19.txt: Assert is true
+20.txt: Assert is true
+21.txt: Assert is true
+22.txt: Assert can be false
+23.txt: Assert can be false
+24.txt: Assert can be false
+25.txt: Unsupported if condition #2
+26.txt: Assert is true
+27.txt: Assert can be false
+28.txt: Assert is true
+29.txt: Cant multiply variable by variable
+30.txt: Cant multiply variable by variable
+4.txt: Assert is true
+5.txt: Unsupported if condition #2
+6.txt: Assert is true
+7.txt: Assert is true
+8.txt: Cant multiply variable by variable
+9.txt: Assert can be false

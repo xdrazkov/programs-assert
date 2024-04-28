@@ -1,0 +1,12 @@
+x = input()
+y = input()
+z = y
+x = x * x
+if x < 10 then
+   y = 0 - y
+end
+if x > 10 then
+   y = 0 - y
+end
+v = y + z
+assert v == 0

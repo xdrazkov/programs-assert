@@ -1,0 +1,4 @@
+x = input()
+y = x * x
+z = y + 10
+assert z > 0

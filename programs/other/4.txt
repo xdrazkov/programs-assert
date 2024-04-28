@@ -1,0 +1,8 @@
+x = input()
+y = input()
+z = x
+if y > 0 then
+  x = x + 2
+  z = z + 2
+end
+assert x == z

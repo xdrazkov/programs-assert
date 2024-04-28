@@ -1,0 +1,7 @@
+x = input()
+y = x
+z = input()
+t = x + z
+x = t - x
+z = t - z
+assert z == y

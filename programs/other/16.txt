@@ -1,0 +1,5 @@
+x = input()
+x = 2 * x
+y = input()
+y = 2 * y
+assert x == y

@@ -1,0 +1,11 @@
+x = input()
+y = input()
+diff = x - y
+if diff > 0 then
+   x = x - diff
+end
+if diff < 0 then
+  y = y + diff
+end
+z = x - y
+assert z == 0

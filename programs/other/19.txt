@@ -1,0 +1,5 @@
+x = input()
+y = input()
+z = x + y
+v = y + x
+assert z == v

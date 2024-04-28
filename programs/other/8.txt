@@ -1,0 +1,12 @@
+x = input()
+y = input()
+z = x
+if y > 0 then
+  x = x + 2
+end
+v = y * y
+y = y - v
+if y < 0 then
+  z = z + 2
+end
+assert x == z

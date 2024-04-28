@@ -1,0 +1,5 @@
+x = input()
+if x > 50 then
+   x = x - 50
+end
+assert x <= 50

@@ -1,0 +1,5 @@
+x = input()
+y = input()
+z = input()
+u = input()
+assert x != 999

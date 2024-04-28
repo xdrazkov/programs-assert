@@ -1,0 +1,6 @@
+x = input()
+y = x
+t = x + y
+x = t - x
+y = t - y
+assert x == y
